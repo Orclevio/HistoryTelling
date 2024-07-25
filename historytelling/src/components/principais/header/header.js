@@ -13,19 +13,21 @@ function Header() {
                     <li className="navitem">
                         Entradas
                         <ul className="dropdown">
-                            <li className="dropdown-item" href="/">Nova anotação</li>
+                            <li className="dropdown-item">Nova anotação</li>
                             <li className="dropdown-item">Todas as anotações</li>
                         </ul>
                     </li>
-                    <li className="navitem">
-                        <IconButton> <AccountCircleIcon sx={{ color: blue[800] }}/></IconButton>
-                        <ul className="dropdown">
-                            <li className="dropdown-item">Dados de cadastro</li>
-                            <li className="dropdown-item">Configurações</li>
-                            <li className="dropdown-item">Sair</li>
-                        </ul>
-                    </li>
                 </ul>
+                <div className="navitem-right">
+                    <IconButton>
+                        <AccountCircleIcon fontSize='large' sx={{ color: blue[800] }} />
+                    </IconButton>
+                    <ul className="dropdown2">
+                        <li className="dropdown-item">Dados de cadastro</li>
+                        <li className="dropdown-item">Configurações</li>
+                        <li className="dropdown-item">Sair</li>
+                    </ul>
+                </div>
             </nav>
         </div>
     );
