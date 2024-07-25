@@ -1,0 +1,4 @@
+Página de Entradas (Entries)
+
+Descrição: Lista de todas as entradas do diário, ordenadas cronologicamente.
+Componentes: Header, Footer, Sidebar, EntryList, SearchBar, Filtros (Tags, Datas).

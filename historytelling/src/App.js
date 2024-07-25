@@ -1,15 +1,22 @@
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Header from './components/principais/header/header';
+import Footer from './components/principais/footer/footer';
+import Home from './paginas/home/home';
+import Login from './paginas/login/login';
 
-import './App.css';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-
-
-      </header>
-    </div>
+    <Router>
+      <Header />
+      <Routes>
+      <Route path="/" element={<Home />} />
+        <Route path="/login" element={<Login />} />
+      </Routes>
+      <Footer />
+    </Router>
   );
-}
+};
 
 export default App;

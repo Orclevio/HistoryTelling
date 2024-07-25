@@ -1,0 +1,5 @@
+Componentes de Funcionalidade
+EntryForm: Formulário para adicionar novas entradas de diário.
+EntryList: Lista de todas as entradas de diário, ordenadas cronologicamente.
+EntryItem: Componente para exibir uma única entrada de diário, incluindo data, tags e texto.
+EntryDetail: Visualização detalhada de uma entrada específica, possivelmente em uma janela modal.

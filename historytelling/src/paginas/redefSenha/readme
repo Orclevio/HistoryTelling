@@ -1,0 +1,4 @@
+Página de Redefinição de Senha (Password Reset)
+
+Descrição: Permitir que os usuários redefinam suas senhas.
+Componentes: Header, Footer, PasswordResetForm.

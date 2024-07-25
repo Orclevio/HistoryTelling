@@ -1,0 +1,4 @@
+Página de Edição da Entrada (Edit Entry)
+
+Descrição: Formulário para editar uma entrada existente.
+Componentes: Header, Footer, EntryForm (pré-preenchido com os dados da entrada existente).

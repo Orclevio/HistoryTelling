@@ -1,0 +1,4 @@
+Componentes de Utilidade
+Notification: Sistema de notificações para alertar os usuários sobre novas entradas, lembretes, etc.
+Backup: Componente para gerenciar backups e restaurações de dados do diário.
+MediaUpload: Componente para permitir upload de fotos, vídeos e áudios às entradas.

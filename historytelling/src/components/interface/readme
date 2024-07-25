@@ -1,0 +1,5 @@
+Componentes de Interface
+Modal: Componente genérico de modal para reutilização em diferentes partes da aplicação.
+Button: Componente de botão reutilizável.
+Input: Componente de campo de entrada reutilizável.
+Card: Componente de cartão para exibir entradas e informações de forma visualmente agradável.

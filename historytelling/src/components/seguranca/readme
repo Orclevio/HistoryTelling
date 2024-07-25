@@ -1,0 +1,4 @@
+Componentes de Segurança
+Login: Formulário de login para autenticação de usuários.
+Register: Formulário de registro para novos usuários.
+ProtectedRoute: Componente para proteger rotas que requerem autenticação.

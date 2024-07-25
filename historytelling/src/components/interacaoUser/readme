@@ -1,0 +1,4 @@
+Componentes de Interação do Usuário
+SearchBar: Barra de pesquisa para buscar entradas específicas.
+TagSelector: Selecionador de tags para filtrar e categorizar entradas.
+ThemeSwitcher: Componente para alternar entre temas claro e escuro.
